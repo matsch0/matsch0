@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @matsch0
-- 👀 I’m interested in python, javascript
 - 🌱 I’m currently learning python
 
 <!---
